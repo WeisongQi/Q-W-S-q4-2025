@@ -12,7 +12,7 @@ config = {
     "prefix": "Aufgabe",  # 目录前缀 / Verzeichnis-Präfix
     # "date_format": "%Y-%m-%d",  # 日期格式 / Datumsformat
     "with_timestamp": False,  # 是否添加时间戳 / Zeitstempel anhängen?
-    "base_dir": "C:/Coding/Q-W-S-q3-2025",  # 基础路径 / Basisverzeichnis
+    "base_dir": "C:/Coding/Q-W-S-q4-2025",  # 基础路径 / Basisverzeichnis
     "custom_suffix": "_v1",  # 自定义后缀 / Benutzerdefiniertes Suffix
 }
 # 可自定义的日期格式选项
