@@ -1,5 +1,7 @@
 # Aufgabe Heute
 
+Ich habe noch Quiz gemacht. und der Plan folgt weiter.
+
 根据您提供的 **AWS Certified Cloud Practitioner (CLF-C02)** 考试大纲（Prüfungsleitfaden），我为您制定了一个为期 **10 天** 的备考计划。
 
 这个计划根据考试大纲中四个主要知识领域的权重分配了学习时间，确保您将更多精力放在占比最高的领域：
